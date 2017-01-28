@@ -1,2 +1,2 @@
-Neste repósitório você vai encontrar a aplicação de python em diversos exercícios resolvidos.
-Espero que apreciem!
+Neste repositório estão diversos exercícios em python, sobre cada estrutura e todos resolvidos.
+Espero que vocês apreciem! 
